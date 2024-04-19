@@ -1,6 +1,8 @@
 /* Стилизация аккордеона */
 
-.accordion {}
+.accordion {
+    font-family: 'Inter', sans-serif;
+}
 
 .accordion__item {
     border: 1px solid #ACB5BD;
